@@ -1,0 +1,372 @@
+2018-11-24 20:59:14,248:INFO: Initializing tf session
+2018-11-24 20:59:14,893:INFO: Epoch 1 out of 15
+2018-11-24 21:00:04,289:INFO: Initializing tf session
+2018-11-24 21:00:04,902:INFO: Epoch 1 out of 15
+2018-11-24 21:15:40,114:INFO: Initializing tf session
+2018-11-24 21:15:40,662:INFO: Epoch 1 out of 1500
+2018-11-24 21:27:18,807:INFO: Initializing tf session
+2018-11-24 21:27:19,366:INFO: Epoch 1 out of 1500
+2018-11-24 21:39:35,242:INFO: Initializing tf session
+2018-11-24 21:39:35,777:INFO: Epoch 1 out of 1500
+2018-11-24 21:45:08,800:INFO: Initializing tf session
+2018-11-24 21:45:09,345:INFO: Epoch 1 out of 1500
+2018-11-24 21:50:28,912:INFO: acc 97.96 - f1 23.11
+2018-11-24 21:50:29,147:INFO: - new best score! 
+2018-11-24 21:50:29,147:INFO: Epoch 2 out of 1500
+2018-11-24 21:55:53,405:INFO: acc 98.07 - f1 43.96
+2018-11-24 21:55:53,649:INFO: - new best score! 
+2018-11-24 21:55:53,650:INFO: Epoch 3 out of 1500
+2018-11-24 22:01:23,623:INFO: acc 98.22 - f1 51.66
+2018-11-24 22:01:23,972:INFO: - new best score! 
+2018-11-24 22:01:23,973:INFO: Epoch 4 out of 1500
+2018-11-24 22:06:43,470:INFO: acc 98.37 - f1 56.54
+2018-11-24 22:06:43,696:INFO: - new best score! 
+2018-11-24 22:06:43,696:INFO: Epoch 5 out of 1500
+2018-11-24 22:12:00,289:INFO: acc 98.39 - f1 58.99
+2018-11-24 22:12:00,505:INFO: - new best score! 
+2018-11-24 22:12:00,505:INFO: Epoch 6 out of 1500
+2018-11-24 22:17:10,775:INFO: acc 98.44 - f1 59.82
+2018-11-24 22:17:10,992:INFO: - new best score! 
+2018-11-24 22:17:10,992:INFO: Epoch 7 out of 1500
+2018-11-24 22:22:18,541:INFO: acc 98.54 - f1 62.67
+2018-11-24 22:22:18,771:INFO: - new best score! 
+2018-11-24 22:22:18,771:INFO: Epoch 8 out of 1500
+2018-11-24 22:27:27,081:INFO: acc 98.59 - f1 63.92
+2018-11-24 22:27:27,382:INFO: - new best score! 
+2018-11-24 22:27:27,383:INFO: Epoch 9 out of 1500
+2018-11-24 22:33:03,993:INFO: acc 98.64 - f1 65.44
+2018-11-24 22:33:04,224:INFO: - new best score! 
+2018-11-24 22:33:04,224:INFO: Epoch 10 out of 1500
+2018-11-24 22:38:30,529:INFO: acc 98.66 - f1 66.10
+2018-11-24 22:38:30,764:INFO: - new best score! 
+2018-11-24 22:38:30,764:INFO: Epoch 11 out of 1500
+2018-11-24 22:43:46,632:INFO: acc 98.66 - f1 66.60
+2018-11-24 22:43:46,860:INFO: - new best score! 
+2018-11-24 22:43:46,860:INFO: Epoch 12 out of 1500
+2018-11-24 22:49:07,029:INFO: acc 98.63 - f1 66.67
+2018-11-24 22:49:07,324:INFO: - new best score! 
+2018-11-24 22:49:07,324:INFO: Epoch 13 out of 1500
+2018-11-24 22:54:39,079:INFO: acc 98.62 - f1 66.63
+2018-11-24 22:54:39,082:INFO: Epoch 14 out of 1500
+2018-11-24 23:00:06,876:INFO: acc 98.66 - f1 67.17
+2018-11-24 23:00:07,106:INFO: - new best score! 
+2018-11-24 23:00:07,106:INFO: Epoch 15 out of 1500
+2018-11-24 23:05:39,495:INFO: acc 98.61 - f1 66.78
+2018-11-24 23:05:39,495:INFO: Epoch 16 out of 1500
+2018-11-24 23:11:01,642:INFO: acc 98.58 - f1 66.55
+2018-11-24 23:11:01,642:INFO: Epoch 17 out of 1500
+2018-11-24 23:16:26,742:INFO: acc 98.55 - f1 66.44
+2018-11-25 15:51:27,497:INFO: Initializing tf session
+2018-11-25 15:51:27,696:INFO: Reloading the latest trained model...
+2018-11-25 15:51:27,696:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 15:55:49,780:INFO: Initializing tf session
+2018-11-25 15:55:49,951:INFO: Reloading the latest trained model...
+2018-11-25 15:55:49,951:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 15:55:50,017:INFO: Testing model over test set
+2018-11-25 15:57:06,846:INFO: acc 98.66 - f1 67.17
+2018-11-25 19:24:28,398:INFO: Initializing tf session
+2018-11-25 19:24:28,597:INFO: Reloading the latest trained model...
+2018-11-25 19:24:28,597:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 19:24:28,670:INFO: Testing model over test set
+2018-11-25 19:25:48,331:INFO: acc 98.66 - f1 67.17
+2018-11-25 19:55:57,811:INFO: Initializing tf session
+2018-11-25 19:55:58,366:INFO: Epoch 1 out of 1500
+2018-11-25 19:58:47,347:INFO: acc 95.71 - f1 3.96
+2018-11-25 19:58:47,572:INFO: - new best score! 
+2018-11-25 19:58:47,572:INFO: Epoch 2 out of 1500
+2018-11-25 20:01:36,035:INFO: acc 95.95 - f1 11.08
+2018-11-25 20:01:36,234:INFO: - new best score! 
+2018-11-25 20:01:36,234:INFO: Epoch 3 out of 1500
+2018-11-25 20:04:31,181:INFO: acc 96.26 - f1 21.78
+2018-11-25 20:04:31,460:INFO: - new best score! 
+2018-11-25 20:04:31,460:INFO: Epoch 4 out of 1500
+2018-11-25 20:07:28,194:INFO: acc 96.42 - f1 25.07
+2018-11-25 20:07:28,416:INFO: - new best score! 
+2018-11-25 20:07:28,416:INFO: Epoch 5 out of 1500
+2018-11-25 20:10:22,288:INFO: acc 96.58 - f1 27.50
+2018-11-25 20:10:22,505:INFO: - new best score! 
+2018-11-25 20:10:22,505:INFO: Epoch 6 out of 1500
+2018-11-25 20:13:13,630:INFO: acc 96.73 - f1 33.38
+2018-11-25 20:13:13,845:INFO: - new best score! 
+2018-11-25 20:13:13,845:INFO: Epoch 7 out of 1500
+2018-11-25 20:16:01,775:INFO: acc 96.77 - f1 31.27
+2018-11-25 20:16:01,785:INFO: Epoch 8 out of 1500
+2018-11-25 20:18:51,184:INFO: acc 96.79 - f1 33.56
+2018-11-25 20:18:51,389:INFO: - new best score! 
+2018-11-25 20:18:51,389:INFO: Epoch 9 out of 1500
+2018-11-25 20:21:18,707:INFO: Initializing tf session
+2018-11-25 20:21:19,265:INFO: Epoch 1 out of 1500
+2018-11-25 20:24:15,000:INFO: p 9.62 - r 3.97 - f1 5.62
+2018-11-25 20:24:15,246:INFO: - new best score! 
+2018-11-25 20:24:15,246:INFO: Epoch 2 out of 1500
+2018-11-25 20:27:10,888:INFO: p 34.92 - r 17.79 - f1 23.57
+2018-11-25 20:27:11,109:INFO: - new best score! 
+2018-11-25 20:27:11,109:INFO: Epoch 3 out of 1500
+2018-11-25 20:30:12,218:INFO: p 27.97 - r 25.22 - f1 26.52
+2018-11-25 20:30:12,492:INFO: - new best score! 
+2018-11-25 20:30:12,492:INFO: Epoch 4 out of 1500
+2018-11-25 20:33:08,802:INFO: p 25.07 - r 29.71 - f1 27.19
+2018-11-25 20:33:09,020:INFO: - new best score! 
+2018-11-25 20:33:09,020:INFO: Epoch 5 out of 1500
+2018-11-25 20:36:08,880:INFO: p 25.89 - r 35.23 - f1 29.85
+2018-11-25 20:36:09,100:INFO: - new best score! 
+2018-11-25 20:36:09,101:INFO: Epoch 6 out of 1500
+2018-11-25 20:39:03,403:INFO: p 21.19 - r 40.59 - f1 27.84
+2018-11-25 20:39:03,404:INFO: Epoch 7 out of 1500
+2018-11-25 20:42:04,662:INFO: p 21.30 - r 43.01 - f1 28.49
+2018-11-25 20:42:04,668:INFO: Epoch 8 out of 1500
+2018-11-25 20:45:06,019:INFO: p 22.03 - r 44.21 - f1 29.41
+2018-11-25 20:45:56,424:INFO: Initializing tf session
+2018-11-25 20:45:56,969:INFO: Epoch 1 out of 1500
+2018-11-25 20:48:54,475:INFO: p 10.37 - r 6.74 - f1 8.17
+2018-11-25 20:48:54,718:INFO: - new best score! 
+2018-11-25 20:48:54,718:INFO: Epoch 2 out of 1500
+2018-11-25 20:51:51,648:INFO: p 13.40 - r 17.27 - f1 15.09
+2018-11-25 20:51:51,867:INFO: - new best score! 
+2018-11-25 20:51:51,867:INFO: Epoch 3 out of 1500
+2018-11-25 20:54:51,398:INFO: p 12.94 - r 24.35 - f1 16.90
+2018-11-25 20:54:51,695:INFO: - new best score! 
+2018-11-25 20:54:51,695:INFO: Epoch 4 out of 1500
+2018-11-25 20:57:51,847:INFO: p 16.05 - r 30.92 - f1 21.13
+2018-11-25 20:57:52,073:INFO: - new best score! 
+2018-11-25 20:57:52,073:INFO: Epoch 5 out of 1500
+2018-11-25 21:01:01,846:INFO: p 22.50 - r 36.96 - f1 27.97
+2018-11-25 21:01:02,072:INFO: - new best score! 
+2018-11-25 21:01:02,072:INFO: Epoch 6 out of 1500
+2018-11-25 21:04:03,175:INFO: p 19.98 - r 40.76 - f1 26.82
+2018-11-25 21:04:03,181:INFO: Epoch 7 out of 1500
+2018-11-25 21:07:01,545:INFO: p 21.69 - r 43.35 - f1 28.92
+2018-11-25 21:07:01,767:INFO: - new best score! 
+2018-11-25 21:07:01,768:INFO: Epoch 8 out of 1500
+2018-11-25 21:09:56,939:INFO: p 25.72 - r 41.45 - f1 31.75
+2018-11-25 21:09:57,156:INFO: - new best score! 
+2018-11-25 21:09:57,156:INFO: Epoch 9 out of 1500
+2018-11-25 21:12:42,965:INFO: p 28.25 - r 46.98 - f1 35.28
+2018-11-25 21:12:43,241:INFO: - new best score! 
+2018-11-25 21:12:43,241:INFO: Epoch 10 out of 1500
+2018-11-25 21:15:29,765:INFO: p 28.57 - r 47.67 - f1 35.73
+2018-11-25 21:15:29,973:INFO: - new best score! 
+2018-11-25 21:15:29,974:INFO: Epoch 11 out of 1500
+2018-11-25 21:18:25,959:INFO: p 28.05 - r 48.88 - f1 35.64
+2018-11-25 21:18:25,965:INFO: Epoch 12 out of 1500
+2018-11-25 21:21:26,297:INFO: p 31.20 - r 48.01 - f1 37.82
+2018-11-25 21:21:26,502:INFO: - new best score! 
+2018-11-25 21:21:26,503:INFO: Epoch 13 out of 1500
+2018-11-25 21:24:22,495:INFO: p 33.07 - r 50.43 - f1 39.95
+2018-11-25 21:24:22,711:INFO: - new best score! 
+2018-11-25 21:24:22,711:INFO: Epoch 14 out of 1500
+2018-11-25 21:27:17,376:INFO: p 30.70 - r 50.95 - f1 38.31
+2018-11-25 21:27:17,382:INFO: Epoch 15 out of 1500
+2018-11-25 21:30:09,518:INFO: p 27.69 - r 49.40 - f1 35.48
+2018-11-25 21:30:09,524:INFO: Epoch 16 out of 1500
+2018-11-25 21:30:45,430:INFO: Initializing tf session
+2018-11-25 21:30:45,838:INFO: Reloading the latest trained model...
+2018-11-25 21:30:45,839:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 21:30:45,991:INFO: Testing model over test set
+2018-11-25 21:30:57,905:INFO: p 49.46 - r 62.16 - f1 55.09
+2018-11-25 21:33:08,365:INFO: p 27.30 - r 50.26 - f1 35.38
+2018-11-25 21:33:08,370:INFO: - early stopping 3 epochs without improvement
+2018-11-25 21:33:20,490:INFO: Initializing tf session
+2018-11-25 21:33:20,650:INFO: Reloading the latest trained model...
+2018-11-25 21:33:20,650:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 21:33:20,727:INFO: Testing model over test set
+2018-11-25 21:33:28,051:INFO: p 49.46 - r 62.16 - f1 55.09
+2018-11-25 21:48:21,302:INFO: Initializing tf session
+2018-11-25 21:48:21,852:INFO: Epoch 1 out of 1500
+2018-11-25 21:51:56,545:INFO: p 47.31 - r 14.86 - f1 22.62
+2018-11-25 21:51:56,789:INFO: - new best score! 
+2018-11-25 21:51:56,789:INFO: Epoch 2 out of 1500
+2018-11-25 21:55:25,726:INFO: p 54.05 - r 33.78 - f1 41.58
+2018-11-25 21:55:25,968:INFO: - new best score! 
+2018-11-25 21:55:25,969:INFO: Epoch 3 out of 1500
+2018-11-25 21:58:59,202:INFO: p 51.71 - r 45.95 - f1 48.66
+2018-11-25 21:58:59,662:INFO: - new best score! 
+2018-11-25 21:58:59,662:INFO: Epoch 4 out of 1500
+2018-11-25 22:02:25,313:INFO: p 54.81 - r 50.00 - f1 52.30
+2018-11-25 22:02:25,545:INFO: - new best score! 
+2018-11-25 22:02:25,546:INFO: Epoch 5 out of 1500
+2018-11-25 22:06:03,187:INFO: p 53.72 - r 53.72 - f1 53.72
+2018-11-25 22:06:03,414:INFO: - new best score! 
+2018-11-25 22:06:03,414:INFO: Epoch 6 out of 1500
+2018-11-25 22:09:34,091:INFO: p 57.34 - r 56.76 - f1 57.05
+2018-11-25 22:09:34,328:INFO: - new best score! 
+2018-11-25 22:09:34,328:INFO: Epoch 7 out of 1500
+2018-11-25 22:13:07,284:INFO: p 54.60 - r 58.11 - f1 56.30
+2018-11-25 22:13:07,285:INFO: Epoch 8 out of 1500
+2018-11-25 22:16:45,423:INFO: p 57.73 - r 56.76 - f1 57.24
+2018-11-25 22:16:45,634:INFO: - new best score! 
+2018-11-25 22:16:45,634:INFO: Epoch 9 out of 1500
+2018-11-25 22:20:15,634:INFO: p 54.66 - r 57.43 - f1 56.01
+2018-11-25 22:20:15,634:INFO: Epoch 10 out of 1500
+2018-11-25 22:23:51,575:INFO: p 55.77 - r 58.78 - f1 57.24
+2018-11-25 22:23:51,575:INFO: Epoch 11 out of 1500
+2018-11-25 22:27:39,542:INFO: p 54.15 - r 59.46 - f1 56.68
+2018-11-25 22:27:39,542:INFO: Epoch 12 out of 1500
+2018-11-25 22:31:28,315:INFO: p 53.30 - r 62.84 - f1 57.67
+2018-11-25 22:31:28,775:INFO: - new best score! 
+2018-11-25 22:31:28,775:INFO: Epoch 13 out of 1500
+2018-11-25 22:35:12,739:INFO: p 52.87 - r 62.16 - f1 57.14
+2018-11-25 22:35:12,744:INFO: Epoch 14 out of 1500
+2018-11-25 22:38:55,876:INFO: p 52.72 - r 62.16 - f1 57.05
+2018-11-25 22:38:55,876:INFO: Epoch 15 out of 1500
+2018-11-25 22:42:31,791:INFO: p 52.11 - r 62.50 - f1 56.84
+2018-11-25 22:42:31,791:INFO: Epoch 16 out of 1500
+2018-11-25 22:46:01,155:INFO: p 53.14 - r 62.84 - f1 57.59
+2018-11-25 22:46:01,155:INFO: Epoch 17 out of 1500
+2018-11-25 22:49:47,079:INFO: p 51.37 - r 63.51 - f1 56.80
+2018-11-25 22:49:47,079:INFO: - early stopping 5 epochs without improvement
+2018-11-25 22:49:52,005:INFO: Initializing tf session
+2018-11-25 22:49:52,179:INFO: Reloading the latest trained model...
+2018-11-25 22:49:52,179:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-25 22:49:52,251:INFO: Testing model over test set
+2018-11-25 22:49:59,316:INFO: p 53.30 - r 62.84 - f1 57.67
+2018-11-26 14:56:52,810:INFO: Initializing tf session
+2018-11-26 14:56:53,388:INFO: Epoch 1 out of 1500
+2018-11-26 15:12:45,570:INFO: Initializing tf session
+2018-11-26 15:12:46,126:INFO: Epoch 1 out of 1500
+2018-11-26 15:17:36,106:INFO: Initializing tf session
+2018-11-26 15:17:36,655:INFO: Epoch 1 out of 1500
+2018-11-26 15:23:19,245:INFO: Initializing tf session
+2018-11-26 15:23:19,800:INFO: Epoch 1 out of 1500
+2018-11-26 15:26:39,167:INFO: p2 54.22 - p1 54.22 - r1 15.20 - r2 15.20 - f1_2 23.75 - f1_1 23.75
+2018-11-26 15:26:39,404:INFO: - new best score! 
+2018-11-26 15:26:39,404:INFO: Epoch 2 out of 1500
+2018-11-26 15:30:14,534:INFO: p2 70.06 - p1 71.97 - r1 38.18 - r2 37.16 - f1_2 48.57 - f1_1 49.89
+2018-11-26 15:30:14,755:INFO: - new best score! 
+2018-11-26 15:30:14,755:INFO: Epoch 3 out of 1500
+2018-11-26 15:33:58,278:INFO: p2 72.49 - p1 76.19 - r1 48.65 - r2 46.28 - f1_2 56.49 - f1_1 59.38
+2018-11-26 15:33:58,582:INFO: - new best score! 
+2018-11-26 15:33:58,582:INFO: Epoch 4 out of 1500
+2018-11-26 15:37:42,423:INFO: p2 71.43 - p1 75.24 - r1 53.38 - r2 50.68 - f1_2 59.29 - f1_1 62.45
+2018-11-26 15:37:42,625:INFO: - new best score! 
+2018-11-26 15:37:42,625:INFO: Epoch 5 out of 1500
+2018-11-26 15:41:30,970:INFO: p2 66.94 - p1 70.25 - r1 57.43 - r2 54.73 - f1_2 60.22 - f1_1 63.20
+2018-11-26 15:41:31,175:INFO: - new best score! 
+2018-11-26 15:41:31,175:INFO: Epoch 6 out of 1500
+2018-11-26 15:45:22,623:INFO: p2 68.44 - p1 71.72 - r1 59.12 - r2 56.42 - f1_2 61.85 - f1_1 64.81
+2018-11-26 15:45:22,847:INFO: - new best score! 
+2018-11-26 15:45:22,848:INFO: Epoch 7 out of 1500
+2018-11-26 15:48:53,473:INFO: p2 65.50 - p1 68.22 - r1 59.46 - r2 57.09 - f1_2 61.01 - f1_1 63.54
+2018-11-26 15:48:53,478:INFO: Epoch 8 out of 1500
+2018-11-26 15:52:21,706:INFO: p2 67.59 - p1 70.75 - r1 60.47 - r2 57.77 - f1_2 62.30 - f1_1 65.21
+2018-11-26 15:52:21,922:INFO: - new best score! 
+2018-11-26 15:52:21,922:INFO: Epoch 9 out of 1500
+2018-11-26 15:55:52,150:INFO: p2 65.22 - p1 68.12 - r1 63.51 - r2 60.81 - f1_2 62.94 - f1_1 65.73
+2018-11-26 15:55:52,419:INFO: - new best score! 
+2018-11-26 15:55:52,419:INFO: Epoch 10 out of 1500
+2018-11-26 15:59:20,535:INFO: p2 67.04 - p1 70.04 - r1 63.18 - r2 60.47 - f1_2 63.59 - f1_1 66.43
+2018-11-26 15:59:20,742:INFO: - new best score! 
+2018-11-26 15:59:20,742:INFO: Epoch 11 out of 1500
+2018-11-26 16:02:47,484:INFO: p2 66.54 - p1 70.30 - r1 63.18 - r2 59.80 - f1_2 62.99 - f1_1 66.55
+2018-11-26 16:02:47,484:INFO: Epoch 12 out of 1500
+2018-11-26 16:06:27,507:INFO: p2 67.92 - p1 71.70 - r1 64.19 - r2 60.81 - f1_2 64.17 - f1_1 67.74
+2018-11-26 16:06:27,718:INFO: - new best score! 
+2018-11-26 16:06:27,718:INFO: Epoch 13 out of 1500
+2018-11-26 16:10:08,828:INFO: p2 67.26 - p1 70.82 - r1 67.23 - r2 63.85 - f1_2 65.51 - f1_1 68.98
+2018-11-26 16:10:09,097:INFO: - new best score! 
+2018-11-26 16:10:09,097:INFO: Epoch 14 out of 1500
+2018-11-26 16:14:04,945:INFO: p2 66.67 - p1 70.57 - r1 67.23 - r2 63.51 - f1_2 65.05 - f1_1 68.86
+2018-11-26 16:14:04,951:INFO: Epoch 15 out of 1500
+2018-11-26 16:17:43,952:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-26 16:17:44,175:INFO: - new best score! 
+2018-11-26 16:17:44,175:INFO: Epoch 16 out of 1500
+2018-11-26 16:21:22,873:INFO: p2 65.75 - p1 69.18 - r1 68.24 - r2 64.86 - f1_2 65.31 - f1_1 68.71
+2018-11-26 16:21:22,879:INFO: Epoch 17 out of 1500
+2018-11-26 16:25:11,763:INFO: p2 66.10 - p1 68.84 - r1 67.91 - r2 65.20 - f1_2 65.65 - f1_1 68.37
+2018-11-26 16:25:11,768:INFO: Epoch 18 out of 1500
+2018-11-26 16:28:53,782:INFO: p2 65.41 - p1 68.84 - r1 67.91 - r2 64.53 - f1_2 64.97 - f1_1 68.37
+2018-11-26 16:28:53,782:INFO: Epoch 19 out of 1500
+2018-11-26 16:32:37,155:INFO: p2 64.77 - p1 68.12 - r1 68.58 - r2 65.20 - f1_2 64.98 - f1_1 68.35
+2018-11-26 16:32:37,157:INFO: Epoch 20 out of 1500
+2018-11-26 16:36:26,840:INFO: p2 63.73 - p1 66.99 - r1 69.26 - r2 65.88 - f1_2 64.78 - f1_1 68.11
+2018-11-26 16:36:26,841:INFO: - early stopping 5 epochs without improvement
+2018-11-26 16:36:39,354:INFO: Initializing tf session
+2018-11-26 16:36:39,530:INFO: Reloading the latest trained model...
+2018-11-26 16:36:39,530:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-26 16:36:39,605:INFO: Testing model over test set
+2018-11-26 16:36:42,853:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 10:55:36,279:INFO: Initializing tf session
+2018-11-27 10:55:36,466:INFO: Reloading the latest trained model...
+2018-11-27 10:55:36,466:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 10:55:36,546:INFO: Testing model over test set
+2018-11-27 10:55:40,015:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 10:57:32,244:INFO: Initializing tf session
+2018-11-27 10:57:32,417:INFO: Reloading the latest trained model...
+2018-11-27 10:57:32,417:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 10:57:32,482:INFO: Testing model over test set
+2018-11-27 10:57:35,992:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 11:46:33,849:INFO: Initializing tf session
+2018-11-27 11:46:34,022:INFO: Reloading the latest trained model...
+2018-11-27 11:46:34,022:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 11:46:34,104:INFO: Testing model over test set
+2018-11-27 11:46:37,605:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 11:51:05,309:INFO: Initializing tf session
+2018-11-27 11:51:05,482:INFO: Reloading the latest trained model...
+2018-11-27 11:51:05,482:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 11:51:05,549:INFO: Testing model over test set
+2018-11-27 11:51:09,183:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 11:52:50,224:INFO: Initializing tf session
+2018-11-27 11:52:50,409:INFO: Reloading the latest trained model...
+2018-11-27 11:52:50,409:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 11:52:50,478:INFO: Testing model over test set
+2018-11-27 11:52:54,057:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 16:12:26,982:INFO: Initializing tf session
+2018-11-27 16:12:27,190:INFO: Reloading the latest trained model...
+2018-11-27 16:12:27,190:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 16:12:27,264:INFO: Testing model over test set
+2018-11-27 16:12:30,979:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-27 16:26:01,302:INFO: Initializing tf session
+2018-11-27 16:26:01,471:INFO: Reloading the latest trained model...
+2018-11-27 16:26:01,478:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 16:26:01,561:INFO: Testing model over test set
+2018-11-27 16:26:04,927:INFO: p1 72.20 - r1 67.57 - f1_1 69.81 - p2 68.59 - r2 64.19 - f1_2 66.32
+2018-11-27 20:09:58,364:INFO: Initializing tf session
+2018-11-27 20:09:58,553:INFO: Reloading the latest trained model...
+2018-11-27 20:09:58,555:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-27 20:09:58,643:INFO: Testing model over test set
+2018-11-27 20:10:02,173:INFO: p1 72.20 - r1 67.57 - f1_1 69.81 - p2 68.59 - r2 64.19 - f1_2 66.32
+2018-11-29 14:17:28,894:INFO: Initializing tf session
+2018-11-29 14:17:29,094:INFO: Reloading the latest trained model...
+2018-11-29 14:17:29,094:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:17:43,633:INFO: Initializing tf session
+2018-11-29 14:17:43,823:INFO: Reloading the latest trained model...
+2018-11-29 14:17:43,823:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:17:43,893:INFO: Testing model over test set
+2018-11-29 14:17:44,015:INFO: p2 98.36 - p1 98.91 - r1 98.37 - r2 97.83 - f1_2 98.09 - f1_1 98.64
+2018-11-29 14:18:51,507:INFO: Initializing tf session
+2018-11-29 14:18:51,696:INFO: Reloading the latest trained model...
+2018-11-29 14:18:51,696:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:18:51,768:INFO: Testing model over test set
+2018-11-29 14:18:51,873:INFO: p2 98.36 - p1 98.91 - r1 98.37 - r2 97.83 - f1_2 98.09 - f1_1 98.64
+2018-11-29 14:22:22,130:INFO: Initializing tf session
+2018-11-29 14:22:22,296:INFO: Reloading the latest trained model...
+2018-11-29 14:22:22,296:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:22:22,358:INFO: Testing model over test set
+2018-11-29 14:22:25,987:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-29 14:24:13,022:INFO: Initializing tf session
+2018-11-29 14:24:13,221:INFO: Reloading the latest trained model...
+2018-11-29 14:24:13,221:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:24:13,297:INFO: Testing model over test set
+2018-11-29 14:24:17,564:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-11-29 14:38:54,191:INFO: Initializing tf session
+2018-11-29 14:38:54,375:INFO: Reloading the latest trained model...
+2018-11-29 14:38:54,376:INFO: Restoring parameters from ../results/test/model.weights/
+2018-11-29 14:38:54,444:INFO: Testing model over test set
+2018-11-29 14:38:58,204:INFO: p2 68.59 - p1 72.20 - r1 67.57 - r2 64.19 - f1_2 66.32 - f1_1 69.81
+2018-12-03 09:28:11,569:INFO: Initializing tf session
+2018-12-03 09:28:11,766:INFO: Reloading the latest trained model...
+2018-12-03 09:28:11,766:INFO: Restoring parameters from ../results.1/test/model.weights/
+2018-12-03 09:28:11,841:INFO: Testing model over test set
+2018-12-03 09:46:10,518:INFO: Initializing tf session
+2018-12-03 09:46:10,740:INFO: Reloading the latest trained model...
+2018-12-03 09:46:10,740:INFO: Restoring parameters from ../results.1/test/model.weights/
+2018-12-03 09:46:10,830:INFO: Testing model over test set
+2018-12-03 09:46:41,700:INFO: Initializing tf session
+2018-12-03 09:46:41,870:INFO: Reloading the latest trained model...
+2018-12-03 09:46:41,870:INFO: Restoring parameters from ../results.1/test/model.weights/
+2018-12-03 09:46:41,942:INFO: Testing model over test set
+2018-12-03 09:47:51,235:INFO: Initializing tf session
+2018-12-03 09:47:51,405:INFO: Reloading the latest trained model...
+2018-12-03 09:47:51,405:INFO: Restoring parameters from ../results.1/test/model.weights/
+2018-12-03 09:47:51,476:INFO: Testing model over test set
+2018-12-03 09:47:55,027:INFO: p2 0.00 - p1 0.00 - r1 0.00 - r2 0.00 - f1_2 0.00 - f1_1 0.00
