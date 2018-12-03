@@ -1,4 +1,0 @@
-从ace原始文本中提取信息，包括句子、触发词等等
-其中
-param_as_sentence.dat：表示从sgm中提取的文本，每个段落一句话
-sentences: 对文本进行分句之后的结果
